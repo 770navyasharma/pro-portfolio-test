@@ -9,7 +9,7 @@ This project is a static HTML, CSS, and JavaScript website. Therefore, no local 
 ## Usage
 To view Navya Sharma's portfolio, simply navigate to its deployed URL (if available) or open the `index.html` file in your web browser. The navigation bar at the top provides quick links to different sections of the page:
 *   **Home**: Introduction to Navya Sharma.
-*   **About**: Details about her expertise, including a dedicated **Skills** section listing technologies like Python, Flask, and JavaScript.
+*   **About**: Details about her expertise, including a dedicated **Skills** section listing specific technologies such as Python, Flask, JavaScript, HTML, CSS, AI/ML, and Git.
 *   **Projects**: A showcase of her work, now featuring **three distinct projects** (LLM Code Automator, Data Science Analysis, Personal Blog) with descriptions.
 
 Clicking on these links will smoothly scroll you to the respective section on the single page.
